@@ -1,1 +1,5 @@
-"# my-first-repo" 
+Nama    : Jocelyn Nathanie Arwin
+
+NPM     : 2206082171
+
+Kelas   : PBP D
